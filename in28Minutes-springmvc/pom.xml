@@ -92,6 +92,10 @@
 					<version>2.2</version>
 					<configuration>
 						<path>/</path>
+						<port>8080</port>
+						<keystoreFile>C:\Users\Ranadheer\.keystore</keystoreFile>
+        				<httpsPort>8443</httpsPort>
+        				<keystorePass>changeit</keystorePass>
 						<contextReloadable>true</contextReloadable>
 					</configuration>
 				</plugin>
