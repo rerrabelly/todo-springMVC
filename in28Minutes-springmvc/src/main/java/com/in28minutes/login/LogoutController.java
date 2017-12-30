@@ -22,6 +22,6 @@ public class LogoutController {
 			new SecurityContextLogoutHandler().logout(request, response, auth);
 		}
 		return "redirect:/";
-		
+		//git trst
 	}
 }
